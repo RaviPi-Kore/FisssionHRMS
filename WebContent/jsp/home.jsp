@@ -6,7 +6,7 @@
 </head>
 <body>
 
-	<p><a href="">Welcome TO Admin</a> </p>
+	<h1 style="margin-left: 30px; font-size: 80px;">Welcome To Fission Labs HR  Management System.</h1>
 	
 </body>
 </html>

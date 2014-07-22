@@ -17,9 +17,9 @@
 </style>
 <script type="text/javascript" src="js/holder.js"></script>
 <script type="text/javascript" src="js/jquery-ui.js"></script>
-<!-- <script type="text/javascript" src="/HRMS/pages/scripts/createEmployee.js"></script>
-<script type="text/javascript" src="/HRMS/pages/scripts/common.js"></script>
-<script type="text/javascript" src="/HRMS/pages/scripts/validation.js"></script> -->
+<script type="text/javascript" src="scripts/createEmployee.js"></script>
+<script type="text/javascript" src="scripts/common.js"></script>
+<script type="text/javascript" src="scripts/validation.js"></script>
 <body>
 
 
@@ -808,27 +808,8 @@
 
 				</div>
 
-				<div class="panel panel-default">
-					<div class="panel-heading">
-						<h4 class="panel-title">
-							<a data-toggle="collapse" data-parent="#accordion" href="#collapseEight"> Attach Resume </a>
-						</h4>
-					</div>
+				
 
-					<div id="collapseEight" class="panel-collapse collapse">
-						<div class="panel-body">
-							<br>
-							<div class="form-group">
-								<label for="attachResume" class="col-lg-2 control-label">Attach Resume</label>
-								<div class="col-lg-10">
-									<iframe src="/HRMS/uploadform" id="uploadResumeIframe" frameBorder="0" style="width: 100%; height: 80px;"></iframe>
-								</div>
-							</div>
-							<br>
-						</div>
-					</div>
-
-				</div>
 
 			</div>
 			<br>
